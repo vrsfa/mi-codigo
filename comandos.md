@@ -39,3 +39,4 @@
 - `git restore` = es un comando para restablecer los cambios con el commit anterior ej: Jose@MacBook-Air-de-Lorena mi-codigo git restore comandos.md
 
 - cnusnchubrubcjnwcububncus
+  -hbubcihwencinsicniusn
