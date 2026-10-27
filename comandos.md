@@ -34,3 +34,4 @@
 
 - `git status` = te dice que es lo que hay en repositorio y si hay cambios desde elultimo commit ej: Jose@MacBook-Air-de-Lorena mi-codigo git status
 - `git add` = manda la carpeta modificada a la ante sala antes de tomar la foto ej: Jose@MacBook-Air-de-Lorena mi-codigo git add .
+- `git commit` = es el momento en el que se toma la captura del cambio que realizaste con su respectiva nota ej: Jose@MacBook-Air-de-Lorena mi-codigo git commit -m "agrega comando git add a comandos.md con su uso"
