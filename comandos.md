@@ -27,5 +27,5 @@
 
 ## busqueda
 
-- `find`= buscar ej: Jose@MacBook-Air-de-Lorena Learning find . -name "\*.txt"
+- `find`= buscar algun elemento dentro del proyecto ej: Jose@MacBook-Air-de-Lorena Learning find . -name "\*.txt"
   ./mi-codigo/fase-0/apuntes.txt
