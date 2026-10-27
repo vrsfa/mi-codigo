@@ -33,3 +33,4 @@
 ## repositorio
 
 - `git status` = te dice que es lo que hay en repositorio y si hay cambios desde elultimo commit ej: Jose@MacBook-Air-de-Lorena mi-codigo git status
+- `git add` = manda la carpeta modificada a la ante sala antes de tomar la foto ej: Jose@MacBook-Air-de-Lorena mi-codigo git add .
