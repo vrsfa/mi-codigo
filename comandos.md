@@ -37,3 +37,5 @@
 - `git commit` = es el momento en el que se toma la captura del cambio que realizaste con su respectiva nota ej: Jose@MacBook-Air-de-Lorena mi-codigo git commit -m "agrega comando git add a comandos.md con su uso"
 - `git push` = es cuando el commit es subido a la red en estos casos a github ej: Jose@MacBook-Air-de-Lorena mi-codigo git push
 - `git restore` = es un comando para restablecer los cambios con el commit anterior ej: Jose@MacBook-Air-de-Lorena mi-codigo git restore comandos.md
+
+- cnusnchubrubcjnwcububncus
